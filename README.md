@@ -3,11 +3,6 @@ Indestructible Objects is a script which makes a select list of objects indestru
 
 The idea behind creating this script was to make street lights and traffic lights indestructible.
 
-## Demos
-- [Dev Demo #1](https://youtu.be/SwDnYTGDuLE)
-- [Dev Demo #2](https://youtu.be/WzOIwjFEgms)
-- [Dev Demo #3](https://youtu.be/4A8z0bZboH4)
-
 ## Installation
 Installing the resource is simple, just download the latest version from the [releases](https://github.com/DevDaddyJacob-FiveM/ddj_fleet_sync/releases/latest) tab, place the folder into your FiveM resources folder and then add `ensure ddj_fleet_sync` to your server.cfg file.
 
